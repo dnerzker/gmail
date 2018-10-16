@@ -1,5 +1,4 @@
 #!/usr/bin/python
-'''create by Ha3MrX'''
 
 
 import smtplib
