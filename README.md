@@ -12,6 +12,6 @@
 
 ### chmod +x gmail.py
 
-### python gemailpy
+### python gmail.py
 
 ### ScreenShot
