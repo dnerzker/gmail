@@ -17,5 +17,6 @@
 ### ScreenShot
 
 
-"bash
-./dnerzker "
+```bash
+good luck:)
+./dnerzker ```
