@@ -15,3 +15,7 @@
 ### python gmail.py
 
 ### ScreenShot
+
+
+''bash
+./dnerzker ''
