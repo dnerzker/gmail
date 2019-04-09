@@ -6,9 +6,9 @@
 ### to ack victim account.Brute force attack is the only successful method to hack account
 ### but this process will take long time depend upon the length of password.
 
-### git clone https://github.com/dnerzker/hack-gmail.git
+### git clone https://github.com/dnerzker/gmail.git
     
-### cd hack-gamil
+### cd gmail
 
 ### chmod +x gmail.py
 
